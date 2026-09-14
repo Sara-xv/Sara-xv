@@ -103,7 +103,7 @@ One of my first hands-on data analysis projects — full exploratory and statist
 
 End-to-end HR analytics project on a synthetic 3,500-employee dataset across 5 relational tables: custom data-quality inspection classes, multi-table merging while avoiding fan-out joins, stratified statistical analysis controlling for job-level selection bias, and two standalone HTML deliverables — a findings report split by stakeholder (CFO, L&D Manager, Department Managers, HRBP) and a Business Analysis document with actionable, prioritized recommendations.
 
-`Python` `Pandas` `SciPy` `Jupyter` `Rich`
+`Python` `Pandas` `SciPy` `Rich`
 
 ---
 
