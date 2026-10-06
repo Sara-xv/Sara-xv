@@ -1,8 +1,7 @@
 <div align="center">
 
 
-### Data Analyst | HR & Business Analytics | Machine Learning
-
+### Data Analyst | HR & Business Analytics
 
 </div>
 
